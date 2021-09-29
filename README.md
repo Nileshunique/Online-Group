@@ -1,11 +1,11 @@
 # Online Group
 Assignments and lecture notes for Online Group batch.
 
-The students have to [fork](https://help.github.com/en/articles/fork-a-repo) the repository, commit their assignments in the `assignments` folder and push. Then they have to submit a pull request against the master branch of `attainu-falcon`.
+The students have to [fork](https://help.github.com/en/articles/fork-a-repo) the repository, commit their assignments in the `assignments` folder and push. Then they have to submit a pull request against the master branch of `Online-Group`.
 
 ## Onboarding
 
-Follow the shared Onboarding doc to familiarize yourself with the process at AttainU.
+Follow the shared Onboarding doc to familiarize yourself with the process at Online-Group.
 
 ## Lectures
 
